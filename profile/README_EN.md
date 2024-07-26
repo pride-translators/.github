@@ -6,8 +6,8 @@ Many LGBTQIA+ people get discriminated just because of who they are. And there a
 - **G**ay
 - **B**isexual
 - **T**ransgender
-- **I**ntersex
 - **Q**ueer/Questioning
+- **I**ntersex
 - **A**sexual
 
 Hope this helps. :)

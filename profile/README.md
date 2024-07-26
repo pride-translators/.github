@@ -6,8 +6,8 @@
 - **G**ay (게이)
 - **B**isexual (양성애자)
 - **T**ransgender (트랜스젠더)
-- **I**ntersex (인터섹스)
 - **Q**ueer/Questioning (퀴어/의문이 생김)
+- **I**ntersex (인터섹스)
 - **A**sexual (무성애자)
 
 도움이 됐으면 좋겠습니다. :)
