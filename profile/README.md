@@ -5,7 +5,7 @@
 - **G**ay (게이)
 - **B**isexual (양성애자)
 - **T**ransgender (트랜스젠더)
-- **Q**ueer/Questioning (퀴어/의문이 생김)
+- **Q**ueer/Questioning (퀴어/질문 중)
 - **I**ntersex (간성/인터섹스)
 - **A**sexual (무성애자)
 
