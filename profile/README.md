@@ -10,3 +10,5 @@
 - **A**sexual (무성애자)
 
 도움이 됐으면 좋겠습니다. :)
+
+[English](https://github.com/pride-translators/.github/blob/main/profile/README_EN.md)
